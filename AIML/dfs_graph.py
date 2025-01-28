@@ -24,5 +24,6 @@ while stack:
             if neighbor not in visited and cur_node == 'G':
                 stack.append(neighbor)
                 break
+            
                 
             
